@@ -1,0 +1,154 @@
+.p-t-4{
+    padding-top: 4px;
+}
+.p-t-6{
+    padding-top: 6px;
+}
+.p-t-9{
+    padding-top: 9px;
+}
+.p-t-11{
+    padding-top: 11px;
+}
+.p-t-12{
+    padding-top: 12px;
+}
+.p-t-16{
+    padding-top: 16px;
+}
+.p-t-20{
+    padding-top: 20px;
+}
+.p-t-24{
+    padding-top: 24px;
+}
+.p-t-28{
+    padding-top: 28px;
+}
+.p-t-30{
+    padding-top: 30px;
+}
+.p-t-36{
+    padding-top: 36px;
+}
+.p-t-40{
+    padding-top: 40px;
+}
+.p-t-48{
+    padding-top: 48px;
+}
+.p-b-20{
+    padding-bottom: 20px;
+}
+.p-b-28{
+    padding-bottom: 28px;
+}
+.p-b-36{
+    padding-bottom: 36px;
+}
+.p-b-48{
+    padding-bottom: 48px;
+}
+.p-b-85{
+    padding-bottom: 85px;
+}
+.p-l-4{
+    padding-left: 4px;
+}
+.p-l-5{
+    padding-left: 5px;
+}
+.p-l-16{
+    padding-left: 16px;
+}
+.p-l-36{
+    padding-left: 36px;
+}
+.p-l-48{
+    padding-left: 48px;
+}
+.p-l-64{
+    padding-left: 64px;
+}
+.p-r-16{
+    padding-right: 16px;
+}
+.p-r-36{
+    padding-right: 36px;
+}
+.p-r-48{
+    padding-right: 48px;
+}
+.p-r-244{
+    padding-right: 244px;
+}
+.m-t-4{
+    margin-top: 4px;
+}
+.m-t-7{
+    margin-top: 7px;
+}
+.m-t-8{
+    margin-top: 8px;
+}
+.m-t-12{
+    margin-top: 12px;
+}
+.m-t-15{
+    margin-top: 15px;
+}
+.m-t-16{
+    margin-top: 16px;
+}
+.m-t-36{
+    margin-top: 36px;
+}
+.m-l-21{
+    margin-left: 21px;
+}
+.m-b-48{
+    margin-bottom: 48px;
+}
+/* -------------Bảng màu------------- */
+.c-light-black{
+    color: #9C9C9C;
+}
+.c-lighter2{
+    color: #797979;
+}
+.c-lighter3{
+    color: #79797c;
+}
+.c-orange-red{
+    color: #ee5d49;
+}
+.c-dark{
+    color: #4f4f4f;
+}
+.c-dark-black{
+    color: #3e3e3e;
+}
+.c-grey{
+    color: #707070;
+}
+.c-white{
+    color: #fafbfc;
+}
+.c-default{
+    color: #3e3e3e;
+}
+.c-default2{
+    color: #3e3e3c;
+}
+.b-white{
+    background-color: #ffffff;
+}
+.b-grey{
+    background-color: #e9e9e9;
+}
+.b-lighter-grey{
+    background-color: #f8f8f8;
+}
+.b-orange-red{
+    background-color: #ee5d49;
+}

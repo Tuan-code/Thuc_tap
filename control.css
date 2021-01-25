@@ -1,0 +1,44 @@
+.nav-item{
+    width: 100%;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+label.logo{
+    font-size: 35px;
+    line-height: 80px;
+    font-weight: bold;
+  }
+/* .nav-item ul{
+    float: right;
+} */
+.nav-item ul li{
+    display: inline-block;
+    padding-top: 27px;
+}
+  .nav-item ul li a{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 0 16px;
+    border-radius: 3px;
+    /* text-transform: uppercase; */
+    color: #4F4F4F;
+}
+.nav-item a:hover{
+    transition: .3s;
+    color: #ee5d49;
+}
+.checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    /* cursor: pointer; */
+    /* display: none; */
+}
+#check{
+    display: none;
+}
+ 

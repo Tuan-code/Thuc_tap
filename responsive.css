@@ -1,0 +1,61 @@
+@media screen and (max-width: 1024px){
+    .nav-item{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .test__register{
+    }
+    .test__register{
+        display: flex;
+        flex-direction: column;
+    }
+    .test__content{
+        flex-direction: column;
+    }
+    .test__email{
+        margin-top: 12px;
+    }
+    .test__btn{
+        margin-top: 12px;
+    }
+
+    .research{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .title{
+        font-size: 28px;
+        /* line-height: 42px; */
+    }
+    .sub-title{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .course__form{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .write__body{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .document__body{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .comment__body{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .basis__body{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .teacher__body{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .footer__content{
+        
+    }
+}
